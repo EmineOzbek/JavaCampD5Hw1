@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>javaCampD4Hw2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jem.workbench.JavaEMFNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.jars/activation.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/AppData/Local/Temp/Rar$DRa73240.34294/activation.jar</locationURI>
+		</link>
+		<link>
+			<name>.jars/javax.mail.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/AppData/Local/Temp/Rar$DRa73240.34294/javax.mail.jar</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
