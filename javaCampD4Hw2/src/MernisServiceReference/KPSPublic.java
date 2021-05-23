@@ -12,5 +12,6 @@ public interface KPSPublic extends javax.xml.rpc.Service {
 
     public MernisServiceReference.KPSPublicSoap getKPSPublicSoap() throws javax.xml.rpc.ServiceException;
 
-    public MernisServiceReference.KPSPublicSoap getKPSPublicSoap(java.net.URL portAddress) throws javax.xml.rpc.ServiceException;
+	public MernisServiceReference.KPSPublicSoap getKPSPublicSoap(java.net.URL portAddress)
+			throws javax.xml.rpc.ServiceException;
 }

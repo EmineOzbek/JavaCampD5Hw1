@@ -10,8 +10,4 @@ public class CustomerCheckManager implements CustomerCheckService {
 		return true;
 	}
 
-	
-
-
-
 }
