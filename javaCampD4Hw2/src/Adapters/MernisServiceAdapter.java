@@ -2,7 +2,7 @@ package Adapters;
 
 import java.rmi.RemoteException;
 
-import Abstract.CustomerCheckService;
+import Abstracts.CustomerCheckService;
 import Entities.Customer;
 import MernisServiceReference.KPSPublicSoapProxy;
 

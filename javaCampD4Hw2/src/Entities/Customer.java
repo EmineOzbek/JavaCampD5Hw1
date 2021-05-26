@@ -2,7 +2,7 @@ package Entities;
 
 import java.time.LocalDate;
 
-import Abstract.Entitiy;
+import Abstracts.Entitiy;
 
 public class Customer implements Entitiy {
 
